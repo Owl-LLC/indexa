@@ -15,10 +15,11 @@ Go to the **[Releases](../../releases)** page to download the latest version of 
 
 ## Usage
 ```bash
-./owlsearch start
+./indexa start
 ```
 
 ## License
 Copyright (c) 2026 Owl LLC. All rights reserved.
 BINARY DISTRIBUTION ONLY. Source code is closed.
+
 
