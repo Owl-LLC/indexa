@@ -1,6 +1,6 @@
-# OwlSearch
+# Owl Indexa
 
-**OwlSearch** is a high-performance web crawler and search engine capable of indexing thousands of pages and answering complex queries.
+**Indexa** is a high-performance web crawler and search engine capable of indexing thousands of pages and answering complex queries.
 
 ## Features
 *   **High-Speed Crawling**: Efficiently indexes web content.
@@ -8,7 +8,7 @@
 *   **Private & Secure**: Built with privacy in mind.
 
 ## Installation
-Go to the **[Releases](../../releases)** page to download the latest version of OwlSearch.
+Go to the **[Releases](../../releases)** page to download the latest version of Indexa.
 
 1.  Download the binary for your OS.
 2.  Run the executable.
@@ -19,5 +19,6 @@ Go to the **[Releases](../../releases)** page to download the latest version of 
 ```
 
 ## License
-Copyright (c) 2026 Indexa. All rights reserved.
+Copyright (c) 2026 Owl LLC. All rights reserved.
 BINARY DISTRIBUTION ONLY. Source code is closed.
+
