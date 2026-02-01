@@ -19,7 +19,7 @@ Complete technical architecture documentation. Covers backend infrastructure (No
 Comprehensive business strategy and revenue model. Details four core revenue streams: Public Search APIs (with tiered pricing), Dufus AI subscription platform, Developer APIs, and privacy-first advertising. Includes go-to-market timeline, sustainability strategy, monetization philosophy, and competitive positioning. Explains how Indexa builds a sustainable business while maintaining privacy-first principles.
 
 ### [Privacy Policy](Docs/privacy.md)
-Detailed privacy policy outlining data collection practices, user rights, and privacy commitments. Describes how Indexa protects user information and maintains privacy-first principles.
+Comprehensive privacy policy with complete transparency on data practices. Covers what information is and isn't collected, data retention policies, security measures, user rights (access, deletion, correction, opt-out), regional compliance (GDPR, CCPA, PIPEDA, DPDP), cookies and tracking, feature-specific privacy details, and contact information. Core principle: minimal data collection, no tracking, no selling of personal information.
 
 ### [Terms of Service](Docs/terms.md)
 Legal terms and conditions for using Indexa. Covers user responsibilities, acceptable use policies, disclaimers, and service limitations.
