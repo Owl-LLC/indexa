@@ -167,3 +167,18 @@ All search processing occurs locally:
 ---
 
 *This document describes the architectural principles of Indexa's search system. Implementation details are subject to ongoing optimization and improvement.*
+
+---
+
+## Contact
+
+**Technical Inquiries:** tech@indexa.site  
+**Documentation Feedback:** docs@indexa.site
+
+[Back to Documentation](../README.md) • [Features](features.md) • [Technical Overview](tech.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • All rights reserved</sub>
+</p>

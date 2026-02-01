@@ -293,3 +293,19 @@ This positioning appeals to:
 ---
 
 *Business model and pricing subject to adjustment based on market conditions and operational requirements. Current as of February 2026.*
+
+---
+
+## Contact
+
+**Business Inquiries:** business@indexa.site  
+**Partnership Opportunities:** partnerships@indexa.site  
+**Advertising:** ads@indexa.site
+
+[Back to Documentation](../README.md) • [Features](features.md) • [Privacy Policy](privacy.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • All rights reserved</sub>
+</p>

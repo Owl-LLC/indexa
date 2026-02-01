@@ -500,3 +500,19 @@ By using Indexa, you acknowledge that you have read this Privacy Policy and agre
 *Last Updated: February 1, 2026*  
 *Version: 1.0*  
 *Status: Ready for Public Launch*
+
+---
+
+## Contact
+
+**Privacy Inquiries:** privacy@indexa.site  
+**Data Protection Officer:** dpo@indexa.site  
+**Security Issues:** security@indexa.site
+
+[Back to Documentation](../README.md) • [Terms of Service](terms.md) • [FAQ](faq.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • Your privacy is our foundation</sub>
+</p>

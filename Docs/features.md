@@ -379,3 +379,18 @@ Available npm scripts for system administration:
 ---
 
 *Feature set subject to ongoing development and improvement.*
+
+---
+
+## Contact
+
+**Feature Requests:** feedback@indexa.site  
+**General Support:** support@indexa.site
+
+[Back to Documentation](../README.md) • [Search Architecture](search.md) • [Technical Overview](tech.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • All rights reserved</sub>
+</p>

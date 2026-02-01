@@ -25,7 +25,7 @@ Comprehensive privacy policy with complete transparency on data practices. Cover
 Complete legal terms governing Indexa usage. Covers use license and restrictions, OwlGuard account terms, acceptable use policy, intellectual property rights, API developer terms, disclaimers and liability limitations, indemnification, dispute resolution (arbitration and governing law), termination policies, fees and payments, region-specific terms (GDPR, CCPA, PIPEDA), and contact information. Includes definitions, special provisions, and acknowledgment of agreement.
 
 ### [FAQ](Docs/faq.md)
-Frequently asked questions about Indexa. Common queries about functionality, privacy, performance, and general usage.
+Comprehensive frequently asked questions covering all aspects of Indexa. Includes general information, search features (hybrid ranking, Dufus AI, image/shopping search), privacy and security (tracking, GDPR, CCPA compliance), OwlGuard accounts, troubleshooting, technical questions (indexing, crawling), advertising and business opportunities, performance details, and legal terms. Complete guide for users with common questions and detailed answers.
 
 ---
 
@@ -40,4 +40,20 @@ Information about contributing to Indexa can be found in the technical documenta
 ## License
 
 See LICENSE file for details.
+
+---
+
+## Contact & Support
+
+**General Inquiries:** contact@indexa.site  
+**Technical Support:** support@indexa.site  
+**Business & Partnerships:** business@indexa.site
+
+**Links:** [Documentation](Docs/) • [Privacy Policy](Docs/privacy.md) • [Terms of Service](Docs/terms.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • Built with privacy in mind • <a href="https://indexa.site">indexa.site</a></sub>
+</p>
 

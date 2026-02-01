@@ -384,3 +384,18 @@ The technology stack is optimized for:
 ---
 
 *Technology choices reflect ongoing optimization and may evolve based on performance requirements and best practices.*
+
+---
+
+## Contact
+
+**Technical Inquiries:** tech@indexa.site  
+**Developer Support:** developers@indexa.site
+
+[Back to Documentation](../README.md) • [Search Architecture](search.md) • [Features](features.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • All rights reserved</sub>
+</p>

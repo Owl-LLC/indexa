@@ -766,4 +766,17 @@ By accessing and using Indexa, you acknowledge that you have read, understood, a
 
 ---
 
-**Questions? Contact:** legal@indexa.in
+## Contact
+
+**Legal Matters:** legal@indexa.site  
+**Terms Questions:** legal@indexa.site  
+**DMCA Notices:** dmca@indexa.site  
+**General Support:** support@indexa.site
+
+[Back to Documentation](../README.md) • [Privacy Policy](privacy.md) • [FAQ](faq.md)
+
+---
+
+<p align="center">
+  <sub>© 2026 Indexa Inc. • All rights reserved</sub>
+</p>
