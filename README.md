@@ -16,7 +16,7 @@ Comprehensive feature catalog covering Indexa's complete capabilities. Includes 
 Complete technical architecture documentation. Covers backend infrastructure (Node.js, Fastify, TypeScript), database systems (SQLite with FTS5, Redis caching), AI/ML stack (local embeddings, HNSW vector search, LLaMA integration), web crawling (HTTP operations, browser automation, content extraction), OwlGuard authentication, frontend architecture, build pipeline, deployment strategy, and key technical decisions with rationale.
 
 ### [Business Model](Docs/business.md)
-Explanation of how Indexa operates as a business, including revenue model, sustainability strategy, and long-term vision.
+Comprehensive business strategy and revenue model. Details four core revenue streams: Public Search APIs (with tiered pricing), Dufus AI subscription platform, Developer APIs, and privacy-first advertising. Includes go-to-market timeline, sustainability strategy, monetization philosophy, and competitive positioning. Explains how Indexa builds a sustainable business while maintaining privacy-first principles.
 
 ### [Privacy Policy](Docs/privacy.md)
 Detailed privacy policy outlining data collection practices, user rights, and privacy commitments. Describes how Indexa protects user information and maintains privacy-first principles.
