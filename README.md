@@ -10,10 +10,10 @@ Comprehensive documentation is available in the `/Docs` folder. Each document co
 Technical deep-dive into how Indexa's search system works. Covers the hybrid multi-signal approach, including query processing, parallel retrieval methods (full-text and semantic search), multi-signal ranking with four distinct signals, result diversification strategies, and performance optimizations. Essential reading for understanding the search engine's core methodology.
 
 ### [Features](Docs/features.md)
-Complete overview of Indexa's user-facing features and capabilities. Describes what makes Indexa unique and how different features enhance the search experience.
+Comprehensive feature catalog covering Indexa's complete capabilities. Includes core search engine with hybrid ranking, Dufus AI conversational assistant, shopping search for e-commerce, image search, rich results with structured data, performance optimizations (caching, distributed crawling, index sharding), OwlGuard authentication system, and developer tools. Details each feature's functionality and benefits.
 
 ### [Technical Overview](Docs/tech.md)
-System architecture and technical implementation details. Covers the technology stack, infrastructure design, scalability considerations, and development practices.
+Complete technical architecture documentation. Covers backend infrastructure (Node.js, Fastify, TypeScript), database systems (SQLite with FTS5, Redis caching), AI/ML stack (local embeddings, HNSW vector search, LLaMA integration), web crawling (HTTP operations, browser automation, content extraction), OwlGuard authentication, frontend architecture, build pipeline, deployment strategy, and key technical decisions with rationale.
 
 ### [Business Model](Docs/business.md)
 Explanation of how Indexa operates as a business, including revenue model, sustainability strategy, and long-term vision.
