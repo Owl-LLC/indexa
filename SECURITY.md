@@ -1,4 +1,4 @@
-![Indexa](../Assets/indexa.png)
+![Indexa](./Assets/indexa.png)
 
 # Security Policy
 
