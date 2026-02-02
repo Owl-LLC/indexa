@@ -17,6 +17,8 @@ When a search query is received, it undergoes several preprocessing steps:
 - Dictionary is populated from frequently searched terms
 - Automatically suggests corrections for misspelled queries
 
+Note: This is still quite flawed, but it is getting better with more use.
+
 **Query Expansion**
 - Applies to concise queries (three words or fewer)
 - Augments queries with synonyms and common acronyms
